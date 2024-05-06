@@ -1,4 +1,4 @@
-# Sistema de Gestão de Marketing
+[# Sistema de Gestão de Marketing
 
 Este projeto consiste em um arquivo SQL que contém a estrutura de um banco de dados para um Sistema de Gestão de Marketing. O objetivo deste sistema é facilitar o gerenciamento de campanhas de marketing, permitindo o planejamento, execução e análise de diversas estratégias de marketing.
 
@@ -32,3 +32,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou corre
 ## Licença
 
 Este projeto está sob a Licença [MIT](https://choosealicense.com/licenses/mit/).
+](https://dbdiagram.io/d/6638e8439e85a46d551cb00d)
